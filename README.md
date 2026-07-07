@@ -1,3 +1,5 @@
+# [ELPAUDIO HAS MOVED TO CODEBERG](https://codeberg.org/elpAudio/elpAudio)
+
 # elpAudio <img align="right" width="128" height="128" src="screenshots/ico.png" alt="elpAudio icon" />
 <img src="screenshots/player1.png" alt="elpAudio screenshot 1" />
 <img src="screenshots/player4.png" alt="elpAudio screenshot 2" />
